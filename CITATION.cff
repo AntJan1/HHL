@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jankiewicz"
+  given-names: "Antoni"
+title: "Implementation of HHL algorithm"
+version: 1.0
+date-released: 2023-03-23
+url: "https://github.com/AntJan1/HHL"
